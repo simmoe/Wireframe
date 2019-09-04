@@ -59,12 +59,11 @@ main .featured #article3 {
 
 @media (max-width: 900px) {
   main .featured {
-    height: 100%;
+    height: 300vh;
     flex-wrap: wrap;
   }
   main .featured article {
     width: 100vw;
-    height: 100vh;
   }
 }
 
